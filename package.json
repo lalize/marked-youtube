@@ -1,0 +1,16 @@
+{
+  "name": "marked-youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node .",
+    "build": "tsc && node dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/marked": "^1.1.0",
+    "marked": "^1.1.1"
+  }
+}
